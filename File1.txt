@@ -6,7 +6,8 @@ class MyClass{
 	}
 
 	main(){
-		
+
+	myMethod();		
 	Sysout("Hello Git...!!!");
 	}
 

@@ -1,5 +1,10 @@
 class MyClass{
 
+	void myMethod(){
+
+		sysout("Mymethod business logic");
+	}
+
 	main(){
 		
 	Sysout("Hello Git...!!!");

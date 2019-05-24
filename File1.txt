@@ -10,6 +10,12 @@ class MyClass{
 		sysout("display date in MM-DD-YYYY");
 	}
 
+		
+	void initDate(){
+
+		sysout("init todays date");
+	}
+
 	public static void main(String args[]){
 	
 	MyClass obj = new MyClass();

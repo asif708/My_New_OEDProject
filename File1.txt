@@ -11,6 +11,9 @@ class MyClass{
 	obj.myMethod();		// mymethod call by myclass object
 
 	System.out.println("Hello Git...!!!");
+	
+	//	change1 in main
+	
 	}
 
 }

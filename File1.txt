@@ -27,4 +27,10 @@ class MyClass{
 	
 	}
 
+	public String display(){
+	System.out.println("display details");
+	
+	return str;
+	}
+
 }

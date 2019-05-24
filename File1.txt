@@ -4,6 +4,11 @@ class MyClass{
 
 		System.out.println("I have got a new Idea...yeyyy..");
 	}
+	
+	void displayDate(){
+	
+		sysout("display date in MM-DD-YYYY");
+	}
 
 	public static void main(String args[]){
 	

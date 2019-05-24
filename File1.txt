@@ -2,7 +2,7 @@ class MyClass{
 
 	static void myMethod(){
 
-		sysout("Mymethod business logic");
+		System.out.println("I have got a new Idea...yeyyy..");
 	}
 
 	public static void main(String args[]){

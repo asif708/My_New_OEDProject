@@ -5,7 +5,7 @@ class MyClass{
 		sysout("Mymethod business logic");
 	}
 
-	main(){
+	public static void main(String args[]){
 
 	myMethod();		
 	Sysout("Hello Git...!!!");

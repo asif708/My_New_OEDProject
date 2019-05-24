@@ -16,4 +16,10 @@ class MyClass{
 	
 	}
 
+	public static String display(){
+	System.out.println("display details");
+	
+	return str;
+	}
+
 }

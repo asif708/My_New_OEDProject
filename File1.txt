@@ -6,9 +6,10 @@ class MyClass{
 	}
 
 	public static void main(String args[]){
+	
+	MyClass obj = new MyClass();
+	obj.myMethod();		// mymethod call by myclass object
 
-	//calling method by static
-	myMethod();		//static method call
 	System.out.println("Hello Git...!!!");
 	}
 

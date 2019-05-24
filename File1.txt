@@ -16,7 +16,7 @@ class MyClass{
 	
 	}
 
-	public static String display(){
+	public String display(){
 	System.out.println("display details");
 	
 	return str;
